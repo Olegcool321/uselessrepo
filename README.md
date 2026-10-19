@@ -1,2 +1,2 @@
 # uselessrepo
-just tryin
+Hi, thats useless repo!
